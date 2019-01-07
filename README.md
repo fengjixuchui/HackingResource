@@ -7,7 +7,7 @@
 <img src='img/00.jpeg' width=400px>
 
 ### Python黑客编程之极速入门
-
+#### [前言](https://github.com/xuanhun/PythonHackingBook1)
 ####  [1.1 python简介和环境搭建](https://github.com/xuanhun/PythonHackingBook1/tree/master/1.1%20python%E7%AE%80%E4%BB%8B%E5%92%8C%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 
 #### [1.2 数值类型](https://github.com/xuanhun/PythonHackingBook1/tree/master/1.2%20%E6%95%B0%E5%80%BC%E7%B1%BB%E5%9E%8B)
