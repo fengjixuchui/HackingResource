@@ -263,28 +263,28 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
 1) [黑客与画家](https://t.zsxq.com/Qj6EAIU)
 2) ctf 有关的一些网站：
 
-https://www.ichunqiu.com/battalion?t=2&r=0
-http://gz-xju.shiyanbar.com/
-https://www.ctftools.com/down/
-https://blog.csdn.net/u012763794/article/details/50959166
-http://www.freebuf.com/articles/web/137923.html
-http://tool.bugku.com/
-https://lightsec.info/
-https://blog.csdn.net/wy_97/article/details/78148705
-http://ctf.bugku.com/
-https://www.jianshu.com/p/6750db0943b7
-https://www.jianshu.com/p/27df5c67157c
-http://www.giantbranch.cn/
-https://www.linkedbyx.com/forum
-http://keyfc.net/bbs/tools/tudoucode.aspx
-https://blog.csdn.net/u011377996/article/details/79323918
-https://blog.csdn.net/persist213/article/details/79374914
-https://xz.aliyun.com/t/1972
-https://blog.csdn.net/dmbjzhh/article/details/79425483
-https://blog.csdn.net/wy_97/article/details/79088218
-https://www.jarvisoj.com/news
-https://blog.csdn.net/weixin_40709439/article/details/83144569
-https://bbs.ichunqiu.com/thread-46827-1-1.html
+https://www.ichunqiu.com/battalion?t=2&r=0<br />
+http://gz-xju.shiyanbar.com/<br />
+https://www.ctftools.com/down/<br />
+https://blog.csdn.net/u012763794/article/details/50959166<br />
+http://www.freebuf.com/articles/web/137923.html<br />
+http://tool.bugku.com/<br />
+https://lightsec.info/<br />
+https://blog.csdn.net/wy_97/article/details/78148705<br />
+http://ctf.bugku.com/<br />
+https://www.jianshu.com/p/6750db0943b7<br />
+https://www.jianshu.com/p/27df5c67157c<br />
+http://www.giantbranch.cn/<br />
+https://www.linkedbyx.com/forum<br />
+http://keyfc.net/bbs/tools/tudoucode.aspx<br />
+https://blog.csdn.net/u011377996/article/details/79323918<br />
+https://blog.csdn.net/persist213/article/details/79374914<br />
+https://xz.aliyun.com/t/1972<br />
+https://blog.csdn.net/dmbjzhh/article/details/79425483<br />
+https://blog.csdn.net/wy_97/article/details/79088218<br />
+https://www.jarvisoj.com/news<br />
+https://blog.csdn.net/weixin_40709439/article/details/83144569<br />
+https://bbs.ichunqiu.com/thread-46827-1-1.html<br />
 
 3) [练习黑客技术的网址](https://t.zsxq.com/IUBQjiQ)
 4) [安全类的思维导图](https://t.zsxq.com/VNfAY3f)
