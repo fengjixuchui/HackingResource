@@ -1,6 +1,32 @@
 # HackingResource
 “玄魂工作室--安全圈” 知识星球内资源汇总,资源来自于星球内成员分享，没有对内容做完全的校验，如果有侵权，请通知我。
 
+## 进圈必看，我该怎么学？
+
+我和别的社区里面的人最大的区别就在于，他们擅长直接录个看起来牛逼的视频给你，你去照着做吧，最后90%的人还是一事无成。请大家务必按照我的要求来做，我们不怕你提问，不怕你麻烦，就怕你懒惰！
+
+1. 查看下面的资源链接
+GitHub - xuanhun/HackingResource: “玄魂工作室--安全圈” 知识星...
+2. 链接里面的kali 教程，务必从头进行操作。
+Kali是我们使用的主要渗透测试的平台，几乎所有的工具都可以集成到上面。
+跟着教程走，不需要特别的基础，Linux基本操作不熟悉的，需要自行学习，常用命令也就那几个，我们不单独培训，不懂就问。这部分教程的目的是以工具操作为核心，培养大家对渗透测试的感性认识。通过学习了解渗透测试的基本流程，每个流程做的事情，可以用什么工具来完成，会涉及哪些知识和概念。 这个过程中确保学会工具操作，同时会有大量的概念不懂，去搜索，提问解决，只需要明白概念本身的内容，是什么，基本原理就是可以了。
+3. Python 黑客编程之极速入门，务必从头进行学习。
+  编程是计算机技术的根本，安全也是如此。 想要理解渗透测试的原理，理解目标漏洞的成因，必须要懂编程。想要开发自己的工具，想要做自动化，智能化的测试，必须要学会编程。对于没有任何基础的 同学，要手敲所有的例子，独立完成作业，多练多练再多练。这这套课程结束的时候，能完成我们编程入门，黑客工具开发入门即可。 严格按照教程来，不懂就搜索，就提问，千万不要放松。
+有了编程的基石，才能从入门向上走一个台阶，否则永远就停留在在入门阶段止步了。
+4. 无线安全系列教程
+这是略专门一点的课程，面向有一些入门基础的同学。这个课需要大家实操之外，多去学习了解网络协议，以及网络协议分析的技巧。如今到处都是无线网络的世界里，从家庭到学校，到商场，餐厅，公司，邻里之间，酒店，这部分内容在各个场所的安全中都试用。所以希望大家认真学习，可以尽快应用的到实战中。
+5. web和内网渗透（ctf）
+
+   这是实战模拟训练，这个过程中，可以结合上诉课程，反复练习，比如可以用kali的工具，也可以自己写个Python脚本来做里面的题目。同样，这里需要去扩展网络协议，web编程，数据库等各种知识，我们会推荐相关资料，同学们要花大功夫去理解基础内容。
+CTF重点训练的是基本渗透技能和渗透思路的培养。
+前半年我们会集中精力做这些基础练习，后续会有目的提升深度和难度。
+
+其他：
+我们会根据大家的需求，调整和增设其他内容。大家一定要把自己的真实需求暴露出来。
+其他分享的资源，作为参考就好。既然进入我们的圈子，就按我们的安排去学习，不要贪多，尤其在入门阶段，一步一个脚印，把路走好。
+
+最后要说的是，不懂就搜，还不懂就问，多练多练再多练！
+
 ## 1. 原创培训教程目录
 原创培训教程会不定期对外公开，教学和培训，答疑等活动在知识星球内部进行，请加入星球一起学习。部分资源只限星球内部成员查看，请加入星球！！
 
@@ -35,6 +61,8 @@
 ---
 
 ### CTF实战
+
+#### 靶场地址：平台地址:39.98.88.18
 
 ####     1.1
 
@@ -90,6 +118,8 @@
 #### [6.5 - 确认并利用SQL盲注漏洞](https://mp.weixin.qq.com/s?__biz=MzA4NDk5NTYwNw==&mid=2651426811&idx=1&sn=c9d9e90353ccfabb00eb7f8fafce97ad&scene=19&token=1165698212&lang=zh_CN#wechat_redirect)
 #### [6.6 - 使用SQLMap查找和利用SQL注入](https://mp.weixin.qq.com/s?__biz=MzA4NDk5NTYwNw==&mid=2651426814&idx=1&sn=66c0b722f658e4545dc69fa655b86d22&scene=19&token=1165698212&lang=zh_CN#wechat_redirect)
 
+#### [6.7 - 利用XML外部实体注入](https://mp.weixin.qq.com/s/6_sbkXFckb29bq08flhAOA)
+#### [6.8 - 检测和利用命令注入漏洞](https://mp.weixin.qq.com/s/H7sqNYsYXCCBB1RvzWYUcA)
 ---
 
 ## 2. 基础知识
@@ -99,6 +129,8 @@
 4) [cmd命令总结](https://t.zsxq.com/aU3bQJ6)
 5) [google 查询语法](https://t.zsxq.com/QbuBaU7)
 6) [pdf][趣学路由与交换](https://t.zsxq.com/NV3vvBY)
+7) [pdf][web安全中的业务安全战争](http://pdf.gitbook.cn/dadc6870-159c-11e9-b4f8-5d507e0f7ff2?e=1547211817&token=18Yxtz1-C6npAT0gU0k2jtdVum-e5j03M1JQoHc1:IrmW9AryBHSLpxF956PJnDS3lXs=)
+
 
 ---
 
@@ -158,7 +190,8 @@
 41) [pdf][kali linux web渗透测试指南](https://t.zsxq.com/NV3vvBY)
 42) [pdf][web 情报攻击](https://t.zsxq.com/NV3vvBY)
 43) [pdf][创建无线网络安全实验室](https://t.zsxq.com/ubUneQn)
-44) [pdf][]
+44) [pdf][vulnhub.com的靶场题解](https://t.zsxq.com/QrRNzF6)
+
 
 ---
 
@@ -241,7 +274,7 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
    链接：https://pan.baidu.com/s/1YjjeVnV-kXBA8g_QzY4QzA  提取码：g24j
 5) [pdf][Python 网络协议攻击](https://t.zsxq.com/ynMnYN7)
 6) [pdf][Python网络攻击技术](https://t.zsxq.com/NV3vvBY)
-7) 
+7) [Python编程辅助工具Python Tutor](http://pythontutor.com/)
 
 ---
 
@@ -251,7 +284,12 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
 
 ## 9.系统安全
 1)  [Struts2-052漏洞学习及反弹shell试验](https://t.zsxq.com/ubUneQn)
-2) 
+2)  [破解Windows密码] 
+   链接：https://pan.baidu.com/s/1DqWfVH6HrwCPtRHqD70fzA 提取码：P634  
+3) [彻底理解Windows认证]
+    https://yunpan.360.cn/surl_ymCtyG7w5wh (提取码:46de)
+
+4)
 
 ## 10. 大数据安全
 1) [https://t.zsxq.com/ubUneQn](https://t.zsxq.com/NV3vvBY)
