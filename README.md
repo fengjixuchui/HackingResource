@@ -191,7 +191,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 42) [pdf][web 情报攻击](https://t.zsxq.com/NV3vvBY)
 43) [pdf][创建无线网络安全实验室](https://t.zsxq.com/ubUneQn)
 44) [pdf][vulnhub.com的靶场题解](https://t.zsxq.com/QrRNzF6)
-
+45）[pdf][渗透测试工程师面试大全](https://t.zsxq.com/AAEiyvj)
+46)
 
 ---
 
@@ -280,7 +281,8 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
 
 ## 8. 移动安全
 1) [APP安全检测指南](https://t.zsxq.com/U3zFeEY)
-2) 
+2) [[pdf][IOS 渗透测试指南](https://t.zsxq.com/IEaqFyB)]
+3)[文章][android渗透的和iOS逆向入门](https://t.zsxq.com/E6MRNvn)
 
 ## 9.系统安全
 1)  [Struts2-052漏洞学习及反弹shell试验](https://t.zsxq.com/ubUneQn)
@@ -326,4 +328,5 @@ https://bbs.ichunqiu.com/thread-46827-1-1.html<br />
 
 3) [练习黑客技术的网址](https://t.zsxq.com/IUBQjiQ)
 4) [安全类的思维导图](https://t.zsxq.com/VNfAY3f)
-
+5) [知道创宇404实验室 --- 2018年网络空间报告](https://t.zsxq.com/uZbiqBq)
+6)
