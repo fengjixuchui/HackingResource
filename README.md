@@ -282,7 +282,7 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
 ## 8. 移动安全
 1) [APP安全检测指南](https://t.zsxq.com/U3zFeEY)
 2) [[pdf][IOS 渗透测试指南](https://t.zsxq.com/IEaqFyB)]
-3)[文章][android渗透的和iOS逆向入门](https://t.zsxq.com/E6MRNvn)
+3) [文章][android渗透的和iOS逆向入门](https://t.zsxq.com/E6MRNvn)
 
 ## 9.系统安全
 1)  [Struts2-052漏洞学习及反弹shell试验](https://t.zsxq.com/ubUneQn)
