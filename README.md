@@ -138,7 +138,9 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 5) [google 查询语法](https://t.zsxq.com/QbuBaU7)
 6) [pdf][趣学路由与交换](https://t.zsxq.com/NV3vvBY)
 7) [pdf][web安全中的业务安全战争](http://pdf.gitbook.cn/dadc6870-159c-11e9-b4f8-5d507e0f7ff2?e=1547211817&token=18Yxtz1-C6npAT0gU0k2jtdVum-e5j03M1JQoHc1:IrmW9AryBHSLpxF956PJnDS3lXs=)
+8) [pdf][渗透测试入门指导与路线规划PPT版](https://mp.weixin.qq.com/s/xAQbzsk1PG1uXPj-fVlKfA)
 
+9) 
 
 ---
 
@@ -200,7 +202,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 43) [pdf][创建无线网络安全实验室](https://t.zsxq.com/ubUneQn)
 44) [pdf][vulnhub.com的靶场题解](https://t.zsxq.com/QrRNzF6)
 45）[pdf][渗透测试工程师面试大全](https://t.zsxq.com/AAEiyvj)
-46)
+46) [pdf][渗透测试 实验室 思维导图](https://t.zsxq.com/yvZ3nEi)
 
 ---
 
@@ -251,8 +253,16 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
     链接：https://pan.baidu.com/s/1pVWU7GqHGBPsHuO7sRPwDg 提取码：7emk
 15) [Burp Suite 实战指南](https://t.zsxq.com/zrFI6Mr)
 16) [网络钓鱼工具](https://articles.zsxq.com/id_9rcwj7e1d7f3.html)
+
 17) [将Win10打造成Kali-踩坑记录](https://t.zsxq.com/z7MbyjQ)
 
+18) [菜刀详细一点的教程]
+
+链接: https://pan.baidu.com/s/1O6pxmgp4RRTNA0mfE7inrw 提取码: m1x6
+
+19）[BurpSuite实战教程](https://t.zsxq.com/qnEi6uf)
+
+20) 
 ---
 
 ## 5. 代码审计
@@ -276,14 +286,162 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
 
 ## 7.编程&逆向
 
-1) [实战 Python 网络爬虫：美团美食商家信息和用户评论](/pdf/实战Python网络爬虫-美团美食商家信息和用户评论.pdf)
-2) [Python入门资源推荐](https://mp.weixin.qq.com/s/wklrk4COw6cvDGqKri0IMg)
-3) [Exploit编写系列教程](https://t.zsxq.com/jQrvbEY)
-4) [python3.6标准库的文档]
+1】Spring boot微服务开发天气预报系统视频教程  
+ https://pan.baidu.com/s/1joz7flyztCq8oklBlsz8dQ	提取密码：cpz7  
+【2】【尚学堂·百战程序员】JAVA300集大型视频教程2018版发布   
+https://pan.baidu.com/s/1Bqy4mWSD1idd6JmIzS9ZLg	提取密码：llg2  
+【3】Vue2.5开发去旅游网站App 从零基础入门到实战项目  
+https://pan.baidu.com/s/1DYCoIw_b893KXGkkYt_92Q	提取密码：bgoy  
+【4】opencv+tensorflow入门人工智能图像处理视频教程+源码下载  
+ https://pan.baidu.com/s/10WefZkTQST094L5UQA7myg	提取密码：7b9w  
+【5】最新BAT面试真题讲解，想去大厂的别错过  	
+https://pan.baidu.com/s/1ejf2Eh8ZA-T1bWbuT6gw0A	提取密码：mist  
+【6】 PHP7.2+Swoole入门到开发高性能直播网站   
+https://pan.baidu.com/s/16jzmOol32tIYAmvDLZMD-A	提取密码：orzd  
+【7】 2018年1月份最新JavaEE（基于Java1.8）零基础入门到精通视频教程下载  
+ https://pan.baidu.com/s/1ZR74b45A5pG8_NnIL4kVQg	提取密码：nu1h  
+【8】Python3异步IO并发编程高级进阶视频教程下载  
+ https://pan.baidu.com/s/1jiRwD5MNPmAKF98nXYzmKg	提取密码：hct4  
+【9】最新大数据数据分析与挖掘高级工程师第三期视频教程  
+ https://pan.baidu.com/s/1g8xGPag9GiMA4_MEKbxePw	提取密码：z2v3  
+【10】姜承尧MYSQL DBA视频课程(44天全)视频教程下载  
+ https://pan.baidu.com/s/19NUjkkvdDZXhw1QG4yX21Q	提取密码：funf  
+【11】Python+Ansible Playbook+Django自动化运维项目实践课程   
+https://pan.baidu.com/s/1CfOHuaYi_TdPoAUzP9AW1w	提取密码：o3rc  
+【12】spring cloud微服务实践-分布式与原理剖析链路追踪容器  
+ https://pan.baidu.com/s/1g8QoqOnQwjI7N3zDSccr-w	提取密码：ygf5  
+【13】2018年最新Java高并发知识体系与高并发编程架构课程视频教程下载  
+ https://pan.baidu.com/s/1E1NhSevRqwdnguiKSsOp5A	提取密码：mkh2  
+【14】2018年最新价值300Python人工智能 TensorFlow框架应用实践视频课程下载  
+ https://pan.baidu.com/s/1qYJjFz9aG6M5grMg311uRQ	提取密码：5hzp  
+【15】ActiveMQ RabbitMQ RokcetMQ Kafka实战 消息队列中间件视频教程下载  
+ https://pan.baidu.com/s/1jkofwfoyScPFchp9uxXKUg	提取密码：azee  
+【16】谭州学院价值1680元python视频教程12306网站案例vip特训班教程   
+https://pan.baidu.com/s/1yEQq5W1eSc3NA4XmyNmuJw	提取密码：cipi  
+【17】尚硅谷最新Springboot从入门到精通视频教程【价值798元】下载   
+https://pan.baidu.com/s/1D6hYdyi4ti2zpnKHVWWbEg 提取密码：glov  
+【18】Netty实战高性能分布式RPC视频教程下载  
+ https://pan.baidu.com/s/1sDHh_g624MO08MTFIrwEDw 提取密码：mwa6  
+【19】最新Python3入门机器学习与算法视频教程+代码   
+https://pan.baidu.com/s/1X8Wp-iUvCNXd1eQZ-a9new	提取密码：p6wl  
+【20】2018年最新尚学堂Vue2全套学习视频教程下载  
+ https://pan.baidu.com/s/147NvAV-Qse90xvTYDvHBcg	提取密码：wpfg  
+【21】最新Python3数据分析与挖掘建模实战视频教程下载  
+ https://pan.baidu.com/s/1pQLMfMzFSAVACammlqjj1A	提取密码：dcd5  
+【22】最新2018疯狂Spring Cloud微服务架构实战视频教程   
+https://pan.baidu.com/s/1jgC0lagtMG7tArATrAAHXg	提取密码：10kf  
+【23】kotlin高级教程从零开始开发完整安卓商城app  
+ https://pan.baidu.com/s/13F_C1aKuJ0ek5Kv-HWdygw	提取密码：krq2  
+【24】2018年最新疯狂Activiti6视频教程疯狂工作流讲义Activiti6.x视频教程  
+ https://pan.baidu.com/s/1SriGV7tZAeSvYcYb6l_hdQ 提取密码：bzcu  
+【25】基于MyCat的MySQL高可用读写分离集群实战课程下载【No215】基于MyCat的  MySQL高可用读写分离集群实战课程下载  
+ https://pan.baidu.com/s/1DVCf57_O1iMDJkbOGxdnpw	提取密码：6a08  
+【26】2018年最新Webpack3由浅入深及搭载vue,react,angular框架多维度讲解  
+ https://pan.baidu.com/s/1BYq5qb9fFMSyODlORBQCcw	提取密码：6wf3  
+【27】2018年最新Spark机器学习课程：智能客户系统项目实战视频教程  
+ https://pan.baidu.com/s/12SrMtvLBlVJGOlOt5NQFjw 提取密码：uu9v  
+【28】最新离线数据分析平台实战驴妈妈项目实战培训视频教程  
+ https://pan.baidu.com/s/129jhYGDLFzsM7BW5HYdg7Q	提取密码：vhjs  
+【29】2018年最新尚硅谷java9新特性视频教程下载	  
+https://pan.baidu.com/s/1xC-xPm54rFMLAHYwis1Thg	提取密码：f0v6  
+【30】最新北风网人工智能+机器学习+深度学习+推荐系统实战第3期视频教程   
+https://pan.baidu.com/s/1E98ZYCtJ7Mom_tWZT6AM_g	提取密码：3abb  
+【31】[全栈开发 ]Vue+Django REST framework 打造生鲜电商项目视频教程  
+ https://pan.baidu.com/s/1vFAkTEdydgL-GjdcpeEHGg	提取密码：k00f    
+【32】2018年最新node.js+ES+Koa2手把手教你开发一个短视频网站视频教程  
+ https://pan.baidu.com/s/1jmxxQ88J_qWsovXkMNeDpQ	提取密码：46yh  
+【33】基于Java的微信平台开发教程视频下载	  
+https://pan.baidu.com/s/1hMq-J7KFMuDezGSdzX35OA	提取密码：oycw  
+【34】最新精选蚂蚁-MySQL语句性能优化视频教程下载   
+https://pan.baidu.com/s/1miVf8Ze	提取密码：w5yt  
+【35】深度学习实战项目-利用RNN与LSTM网络原理进行唐诗生成视频课程  
+ https://pan.baidu.com/s/1i6jyFtz	提取密码：vrzx  
+【36】2018年最新微信小游戏开发 ES6+小游戏api开发视频教程下载  
+ https://pan.baidu.com/s/1i7mwJCp	提取密码：ndl7  
+【37】最新甲骨论-Linux大数据及数据库存储视频教程下载  
+ https://pan.baidu.com/s/1smi2oNj	提取密码：ypgn  
+【38】泰牛2017php基础班大牛班完整视频教程下载  
+ https://pan.baidu.com/s/1ggKGo9d	提取密码：2tqk  
+【39】2018年最新Java微服务原理课程与改造房产销售平台视频教程  
+ https://pan.baidu.com/s/1jKf8MMi	提取密码：i8ej  
+【40】使用dubbo、spring-boot等技术实现互联网后台服务项目架构视频教程  
+ https://pan.baidu.com/s/1gg1JiBD	提取密码：1jtk  
+【41】最新区块链开发入门到精通视频教程下载  
+https://pan.baidu.com/s/1kW7FTwr	提取密码：hvep  
+【42】2018年最新价值1699元的深入大数据架构师之路，问鼎40万年薪视频教程下载  
+ https://pan.baidu.com/s/1c3d1RbU	提取密码：22kw  
+【43】2018年最新java大数据基于storm开发实时流处理器视频教程   
+https://pan.baidu.com/s/1cOCHPk	提取密码：igw9  
+【44】2017年最新JAVA-ACE-架构师系列视频课程- RocketMQ（上下集）下载   
+https://pan.baidu.com/s/1ghb9UAf	提取密码：sstz  
+【45】2017年深度学习项目实战视频课程-Seq2Seq序列生模型视频教程   
+https://pan.baidu.com/s/1dGEDwSp	提取密码：96eh  
+【46】2017年最新web前端工程师小白零基础入门到大神全套教程下载   
+https://pan.baidu.com/s/1dFQ8wgT	提取密码：7g4e  
+【47】2017年最新python高级模块matplotlib 数据可视化分析视频教程   
+https://pan.baidu.com/s/1kWyRVmB	提取密码：qjaj  
+【48】价值1680元安卓特训班实战开发百思不得姐app项目教程下载  
+ https://pan.baidu.com/s/1c3adHsc	提取密码：sxvg  
+【49】循序渐进掌握Python 老男孩python第三期全栈工程师104天高清全套教程带源码  下载	  
+https://pan.baidu.com/s/1eSQ6cxk 提取密码：bngs  
+【50】2018年最新价值799元Elasticsearch顶尖高手系列：高手进阶篇视频教程   
+https://pan.baidu.com/s/1mkkSBrU	提取密码：zmjn  
+【51】机器学习与量化交易项目班视频教程下载	  
+https://pan.baidu.com/s/1pMQ3A0F 提取密码：4cjq  
+【52】2017年最新深度学习框架Caffe使用案例视频课程下载   
+https://pan.baidu.com/s/1dGFsBnz	提取密码：q4dg  
+【53】炼数成精大数据的矩阵计算基础课程下载  
+https://pan.baidu.com/s/1mkaJbpY	提取密码：pnnc  
+【54】2018年最新redis从入门到精通与分布式架构视频教程下载   
+https://pan.baidu.com/s/1gggc7Fd	提取密码：img8  
+【55】2018年最新动力节点Java夜校视频教程下载	  
+https://pan.baidu.com/s/1i6v7013 提取密码：dbnt  
+【56】全网最新基于ElasticSearch的找房网实战开发企业级房屋搜索网视频教程下载   
+https://pan.baidu.com/s/1bqUVrsF	提取密码：idjy  
+【57】Java高性能高并发秒杀系统实战视频教程下载  
+ https://pan.baidu.com/s/1bqVBoqb	提取密码：ztqe  
+【58】2017最新最系统的PHP面试视频教程下载高薪无忧  
+ https://pan.baidu.com/s/1o81Mu8q	提取密码：da2f  
+【59】2017年最新炼数成金机器读心术之神经网络与深度学习视频教程下载  
+ https://pan.baidu.com/s/1mhJkQzI	提取密码：pvc6  
+【60】李兴华系列之Java8、Oracle、JavaScript、HTML5、Spring、Struts、Hibernate系列视频教程下载  
+ https://pan.baidu.com/s/1o7O6ytc	提取密码：icgf  
+【61】2017 年最新 Python+scripy实现搜索引擎爬虫课程视频教程下载   
+https://pan.baidu.com/s/1mhLSFVy	提取密码：n333  
+【62】最新某某学院大数据工程师视频教程下载  
+https://pan.baidu.com/s/1o7Cvjwm	提取密码：ximb  
+【63】2017年Java web开发工程师成长之路全套视频教程附配套资料下载   
+https://pan.baidu.com/s/1qXJcyVa	提取密码：31di  
+【64】php 高性能yii2框架开发高性能高可用负载均衡集群架构商城视频教程下载   
+https://pan.baidu.com/s/1jIKk70i	提取密码：b9bt  
+【65】2017最新兄弟连laravel入门到精通+博客实战开发教程下载   
+https://pan.baidu.com/s/1bZJAW2	提取密码：6p4c  
+【66】 2017年最系统的PHP教程高薪就业视频教程下载  
+ https://pan.baidu.com/s/1o7DG2pW	提取密码：rrds  
+【67】2017最新大数据10个小时快速入门hadoop3集群实战视频教程   
+https://pan.baidu.com/s/1hsgtagG	提取密码：dwin  
+【68】2017年最新Webpack + React全栈工程架构项目实战精讲视频教程下载   
+https://pan.baidu.com/s/1hsq2s64	提取密码：gprc  
+【69】 2017年最新Uber车辆监控系统设计实战训练营高清视频教程全套附讲义代码   
+https://pan.baidu.com/s/1nv9Vm5b	提取密码：5bs8  
+【70】2017年最新DS206人脸识别与分析系统实战训练营硅谷讲师授课高清视频教程全套附讲义代码 4周   
+https://pan.baidu.com/s/1c2LcBsc	提取密码：nv1h  
+【71】2017年最新React开发Native开发安卓与ios平台的GitHub App视频教程   
+https://pan.baidu.com/s/1jI6DiXg	提取密码：7cyk  
+【72】2017年最新Google面试官亲授java校招面试视频讲解教程下载   
+https://pan.baidu.com/s/1nuDIkQ1	提取密码：hhnu  
+【73】Android传感器、无线传输与媒体硬件功能开发视频教程下载   
+https://pan.baidu.com/s/1bpoA4EV	提取密码：cvh9  
+
+
+74) [实战 Python 网络爬虫：美团美食商家信息和用户评论](/pdf/实战Python网络爬虫-美团美食商家信息和用户评论.pdf)
+75) [Python入门资源推荐](https://mp.weixin.qq.com/s/wklrk4COw6cvDGqKri0IMg)
+76) [Exploit编写系列教程](https://t.zsxq.com/jQrvbEY)
+77) [python3.6标准库的文档]
    链接：https://pan.baidu.com/s/1YjjeVnV-kXBA8g_QzY4QzA  提取码：g24j
-5) [pdf][Python 网络协议攻击](https://t.zsxq.com/ynMnYN7)
-6) [pdf][Python网络攻击技术](https://t.zsxq.com/NV3vvBY)
-7) [Python编程辅助工具Python Tutor](http://pythontutor.com/)
+78) [pdf][Python 网络协议攻击](https://t.zsxq.com/ynMnYN7)
+79) [pdf][Python网络攻击技术](https://t.zsxq.com/NV3vvBY)
+80) [Python编程辅助工具Python Tutor](http://pythontutor.com/)
 
 ---
 
@@ -299,7 +457,13 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
 3) [彻底理解Windows认证]
     https://yunpan.360.cn/surl_ymCtyG7w5wh (提取码:46de)
 
-4)
+4) [活动目录渗透测试](https://www.varonis.com/blog/pen-testing-active-directory-environments-part-introduction-crackmapexec-powerview/)
+
+5)[5分钟获取windows 管理员权限](链接:https://pan.baidu.com/s/1LYsTPCF5q5ZkHBmS3sH5ow  密码:ep44)
+
+6)[pdf][windows server 2012 活动目录管理实践](链接:https://pan.baidu.com/s/1t8q_3aoMLcHzs8N3ah4efA  密码:k6rj  )
+
+
 
 ## 10. 大数据安全
 1) [https://t.zsxq.com/ubUneQn](https://t.zsxq.com/NV3vvBY)
@@ -337,4 +501,4 @@ https://bbs.ichunqiu.com/thread-46827-1-1.html<br />
 3) [练习黑客技术的网址](https://t.zsxq.com/IUBQjiQ)
 4) [安全类的思维导图](https://t.zsxq.com/VNfAY3f)
 5) [知道创宇404实验室 --- 2018年网络空间报告](https://t.zsxq.com/uZbiqBq)
-6)
+6) [5号黯区渗透手册](http://www.ansbase5.org/PentestNote.html)
