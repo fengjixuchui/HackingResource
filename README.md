@@ -58,6 +58,12 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [1.3 熟悉Wi-Fi攻击工作流程](https://articles.zsxq.com/id_n12rgv8apz2z.html)
 #### [2.1 了解你的实验环境](https://articles.zsxq.com/id_j7r20x5rc16h.html)
 #### [2.2 规划网络拓扑](https://articles.zsxq.com/id_j7r20x5rc16h.html)
+
+#### [2.3 选择合适的组件](https://articles.zsxq.com/id_oen4vvuhvrjl.html)
+
+#### [2.4 规划实验室安全](https://articles.zsxq.com/id_oen4vvuhvrjl.html)
+
+#### [2.5 安全提示](https://articles.zsxq.com/id_oen4vvuhvrjl.html)
 ---
 
 ### CTF实战
