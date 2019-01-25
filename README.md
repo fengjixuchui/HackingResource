@@ -38,7 +38,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 <img src='img/00.jpeg' width=400px>
 
 ### Python黑客编程之极速入门
-#### [前言](https://github.com/xuanhun/PythonHackingBook1)
+#### [教程介绍](https://github.com/xuanhun/PythonHackingBook1/blob/master/README.md)
+#### [大纲](https://github.com/xuanhun/PythonHackingBook1/blob/master/%E5%A4%A7%E7%BA%B2.md)
 ####  [1.1 python简介和环境搭建](https://github.com/xuanhun/PythonHackingBook1/tree/master/1.1%20python%E7%AE%80%E4%BB%8B%E5%92%8C%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA)
 
 #### [1.2 数值类型](https://github.com/xuanhun/PythonHackingBook1/tree/master/1.2%20%E6%95%B0%E5%80%BC%E7%B1%BB%E5%9E%8B)
@@ -58,6 +59,9 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 ### 无线网络渗透测试实践 
 
+####[大纲](https://github.com/xuanhun/wirelessHacking/blob/master/README.md)
+
+
 #### [1.1 了解无线网络的安全问题](https://articles.zsxq.com/id_z0bnx91wcbai.html)
 #### [1.2 常见的WLAN(无线局域网)保护机制及其缺陷](https://articles.zsxq.com/id_9f2dk263flgd.html)
 #### [1.3 熟悉Wi-Fi攻击工作流程](https://articles.zsxq.com/id_n12rgv8apz2z.html)
@@ -72,7 +76,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 ---
 
 ### CTF实战
-
+#### [大纲](https://mp.weixin.qq.com/s/ukSra269UmRhXYxvsbshng)
 #### 靶场地址：平台地址:39.98.88.18
 
 ####     [1.1 http method](https://t.zsxq.com/niimAA6)
