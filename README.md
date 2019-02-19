@@ -141,6 +141,9 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [6.7 - 利用XML外部实体注入](https://mp.weixin.qq.com/s/6_sbkXFckb29bq08flhAOA)
 #### [6.8 - 检测和利用命令注入漏洞](https://mp.weixin.qq.com/s/H7sqNYsYXCCBB1RvzWYUcA)
 #### [7.1 - 使用Exploit-DB利用Heartbleed漏洞](https://mp.weixin.qq.com/s/ipW3L-GJtSX9TgtQ2Ppb3A)
+
+####[7.2 通过利用Shellshock执行命令](https://mp.weixin.qq.com/s/JZfqkb2BTfvzDnwjtRuJwA)
+####[7.3 - 利用metasploit创建并反弹shell](https://mp.weixin.qq.com/s/mCDfDWsnK_uzPtG2KNPT2g)
 ---
 
 ## 2. 基础知识
