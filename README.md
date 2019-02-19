@@ -52,7 +52,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [2.0 Python编程之禅](https://github.com/xuanhun/PythonHackingBook1/tree/master/2.0%20Python%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%A6%85)
 #### [2.1 文件和目录基本操作](https://github.com/xuanhun/PythonHackingBook1/tree/master/2.1%20%E6%96%87%E4%BB%B6%E5%92%8C%E7%9B%AE%E5%BD%95%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
 
-
+#### [2.2 多线程编程](https://github.com/xuanhun/PythonHackingBook1/tree/master/2.2%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B)
 
 
 ---
