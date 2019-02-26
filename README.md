@@ -87,6 +87,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [1.3 数据库基础](https://t.zsxq.com/NFYJMfa)
 #### [2.1 sql注入基础](https://t.zsxq.com/fm6MFYz)
 #### [2.2 sql注入实战](https://t.zsxq.com/jUNfAei)
+#### [2.2 补充 sql注入原理篇](https://t.zsxq.com/jYBUn27)
 ---
 
 ### Kali Linux 渗透测试手册（第2版）
