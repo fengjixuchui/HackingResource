@@ -56,6 +56,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [2.3 多进程编程](https://github.com/xuanhun/PythonHackingBook1/tree/master/2.3%20%E5%A4%9A%E8%BF%9B%E7%A8%8B%E7%BC%96%E7%A8%8B)
 
+#### [3.1 Socket编程基础](https://github.com/xuanhun/PythonHackingBook1/tree/master/3.1%20Socket%20%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+
 ---
 
 ### 无线网络渗透测试实践 
