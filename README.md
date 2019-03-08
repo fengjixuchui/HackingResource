@@ -82,7 +82,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 ### CTF实战
 #### [大纲](https://mp.weixin.qq.com/s/ukSra269UmRhXYxvsbshng)
-#### 靶场地址：平台地址:39.98.88.18
+#### 靶场地址：(加入“玄说安全--入门圈” 可看)
 
 ####     [1.1 http method](https://t.zsxq.com/niimAA6)
 ####      [1.1 wp ](https://t.zsxq.com/VvBQnY7)
