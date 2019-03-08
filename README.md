@@ -76,6 +76,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [2.4 规划实验室安全](https://articles.zsxq.com/id_oen4vvuhvrjl.html)
 
 #### [2.5 安全提示](https://articles.zsxq.com/id_oen4vvuhvrjl.html)
+#### [3.1 第三章：配置实验室网络环境(上)](https://t.zsxq.com/MniMnEa)
+
 ---
 
 ### CTF实战
@@ -90,6 +92,9 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [2.1 sql注入基础](https://t.zsxq.com/fm6MFYz)
 #### [2.2 sql注入实战](https://t.zsxq.com/jUNfAei)
 #### [2.2 补充 sql注入原理篇](https://t.zsxq.com/jYBUn27)
+#### [2.3](https://t.zsxq.com/3byNVV3)
+#### [2.4 sql注入之双查询注入](https://t.zsxq.com/IyJQN7y)
+
 ---
 
 ### Kali Linux 渗透测试手册（第2版）
@@ -148,6 +153,16 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [7.2 通过利用Shellshock执行命令](https://mp.weixin.qq.com/s/JZfqkb2BTfvzDnwjtRuJwA)
 #### [7.3 - 利用metasploit创建并反弹shell](https://mp.weixin.qq.com/s/mCDfDWsnK_uzPtG2KNPT2g)
+####[7.4 7.4 - Linux上的权限提升](https://mp.weixin.qq.com/s/8Vznhz6DbBtf1vqOzAEALA)
+####[7.5 - Windows提权](https://mp.weixin.qq.com/s/DJbWTTx5DASfH9XeCdtaXw)
+#### [7.6 - 使用Tomcat管理界面执行代码](https://mp.weixin.qq.com/s/ps5UUddiONhW5NMA24hd2Q)
+#### [7.7 - 通过John the Ripper使用字典来破解密码哈希值](https://mp.weixin.qq.com/s/g40t1R4NJidsDv27ksyv6A)
+#### [7.8 - 使用Hashcat暴力破解密码](https://mp.weixin.qq.com/s/O4a1OlK6ARdwp6gs7Nd2dA)
+
+#### [8.0+8.1+8.2 - 介绍+用Nikto进行扫描+自动扫描注意事项](https://mp.weixin.qq.com/s/LezMaeofLUoinM8nE_u_2A)
+
+
+
 ---
 
 ## 2. 基础知识
@@ -282,7 +297,13 @@ https://pan.baidu.com/s/10E6lVJsOtU5FNzV184qXug 提取码：PjN7   wireshark 视
 
 19）[BurpSuite实战教程](https://t.zsxq.com/qnEi6uf)
 
-20) 
+20) [DVWA 渗透测试平台分析](https://t.zsxq.com/ZFAE27M)
+
+21) [《Wireshark数据包分析实战第2版》+配套文件]
+     链接：https://pan.baidu.com/s/1pVkfqPFyz-JulO-nouzF5A 
+提取码：fo64 
+
+22)[ctfd教程](https://t.zsxq.com/6EaUrnM)
 ---
 
 ## 5. 代码审计
@@ -522,3 +543,4 @@ https://bbs.ichunqiu.com/thread-46827-1-1.html<br />
 4) [安全类的思维导图](https://t.zsxq.com/VNfAY3f)
 5) [知道创宇404实验室 --- 2018年网络空间报告](https://t.zsxq.com/uZbiqBq)
 6) [5号黯区渗透手册](http://www.ansbase5.org/PentestNote.html)
+7) [面试资料](https://github.com/Leezj9671/Pentest_Interview)
