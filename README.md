@@ -153,8 +153,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [7.2 通过利用Shellshock执行命令](https://mp.weixin.qq.com/s/JZfqkb2BTfvzDnwjtRuJwA)
 #### [7.3 - 利用metasploit创建并反弹shell](https://mp.weixin.qq.com/s/mCDfDWsnK_uzPtG2KNPT2g)
-####[7.4 7.4 - Linux上的权限提升](https://mp.weixin.qq.com/s/8Vznhz6DbBtf1vqOzAEALA)
-####[7.5 - Windows提权](https://mp.weixin.qq.com/s/DJbWTTx5DASfH9XeCdtaXw)
+#### [ 7.4 - Linux上的权限提升](https://mp.weixin.qq.com/s/8Vznhz6DbBtf1vqOzAEALA)
+#### [ 7.5 - Windows提权](https://mp.weixin.qq.com/s/DJbWTTx5DASfH9XeCdtaXw)
 #### [7.6 - 使用Tomcat管理界面执行代码](https://mp.weixin.qq.com/s/ps5UUddiONhW5NMA24hd2Q)
 #### [7.7 - 通过John the Ripper使用字典来破解密码哈希值](https://mp.weixin.qq.com/s/g40t1R4NJidsDv27ksyv6A)
 #### [7.8 - 使用Hashcat暴力破解密码](https://mp.weixin.qq.com/s/O4a1OlK6ARdwp6gs7Nd2dA)
