@@ -94,7 +94,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [2.1 sql注入基础](https://t.zsxq.com/fm6MFYz)
 #### [2.2 sql注入实战](https://t.zsxq.com/jUNfAei)
 #### [2.2 补充 sql注入原理篇](https://t.zsxq.com/jYBUn27)
-#### [2.3 ] (https://t.zsxq.com/3byNVV3)
+#### [2.3 字符型注入](https://t.zsxq.com/3byNVV3)
 #### [2.4 sql注入之双查询注入](https://t.zsxq.com/IyJQN7y)
 #### [2.6 sql注入之读取文件](https://t.zsxq.com/NzBAm27)
 #### [2.7 sql注入之bool 注入](https://t.zsxq.com/Zf2FYZj)
