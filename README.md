@@ -77,6 +77,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [2.5 安全提示](https://articles.zsxq.com/id_oen4vvuhvrjl.html)
 #### [3.1 第三章：配置实验室网络环境(上)](https://t.zsxq.com/MniMnEa)
+#### [3.2 第三章：配置实验室网络环境(下)](https://t.zsxq.com/BaM3Byz)
+
 
 ---
 
@@ -94,7 +96,10 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [2.2 补充 sql注入原理篇](https://t.zsxq.com/jYBUn27)
 #### [2.3](https://t.zsxq.com/3byNVV3)
 #### [2.4 sql注入之双查询注入](https://t.zsxq.com/IyJQN7y)
-
+#### [2.6 sql注入之读取文件](https://t.zsxq.com/NzBAm27)
+#### [2.7 sql注入之bool 注入](https://t.zsxq.com/Zf2FYZj)
+#### [2.8 sleep注入](https://t.zsxq.com/UvrburB)
+#### [2.9 post 注入](https://t.zsxq.com/mQbYfAY)
 ---
 
 ### Kali Linux 渗透测试手册（第2版）
@@ -161,7 +166,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [8.0+8.1+8.2 - 介绍+用Nikto进行扫描+自动扫描注意事项](https://mp.weixin.qq.com/s/LezMaeofLUoinM8nE_u_2A)
 
-
+#### [8.3 - 使用Wapiti发现漏洞](https://mp.weixin.qq.com/s/9c--e630MmM16h80zfmkSA)
 
 ---
 # 以下为第三方资源，仅做参考。参与内部圈的同学跟紧原创教程即可
