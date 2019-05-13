@@ -108,6 +108,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [2.7 sql注入之bool 注入](https://t.zsxq.com/Zf2FYZj)
 #### [2.8 sleep注入](https://t.zsxq.com/UvrburB)
 #### [2.9 post 注入](https://t.zsxq.com/mQbYfAY)
+#### [2.10 cookie注入](https://t.zsxq.com/myVJyJY)
+#### [2.11 sql注入之user-agent注入](https://t.zsxq.com/NBQjE6y)
 ---
 
 ### Kali Linux 渗透测试手册（第2版）
