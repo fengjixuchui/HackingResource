@@ -73,6 +73,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [3.4 Scapy基础](https://github.com/xuanhun/PythonHackingBook1/blob/master/3.4%20Scapy%E5%9F%BA%E7%A1%80/Scapy%E5%9F%BA%E7%A1%80.md)
 
+#### [3.5 ARP欺骗](https://github.com/xuanhun/PythonHackingBook1/tree/master/3.5%20ARP%E6%AC%BA%E9%AA%97)
+
 ### 无线网络渗透测试实践 
 
 ####[大纲](https://github.com/xuanhun/wirelessHacking/blob/master/README.md)
