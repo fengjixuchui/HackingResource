@@ -77,6 +77,7 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [3.6 网络嗅探](https://github.com/xuanhun/PythonHackingBook1/tree/master/3.6%20%E7%BD%91%E7%BB%9C%E5%97%85%E6%8E%A2)
 
+#### [3.7 端口扫描](https://github.com/xuanhun/PythonHackingBook1/tree/master/3.7%20%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F)
 
 
 ### 无线网络渗透测试实践 
