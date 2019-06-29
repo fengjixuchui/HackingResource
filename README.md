@@ -79,7 +79,11 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [3.7 端口扫描](https://github.com/xuanhun/PythonHackingBook1/tree/master/3.7%20%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F)
 
+#### [3.8 DNS欺骗](https://t.zsxq.com/eAaIuBm)
 
+#### [3.9 无线网络扫描](https://t.zsxq.com/ZnUvvJ2)
+
+---
 ### 无线网络渗透测试实践 
 
 ####[大纲](https://github.com/xuanhun/wirelessHacking/blob/master/README.md)
@@ -105,6 +109,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [第四章(上)--- 4.1 规划服务 + 4.2 创建虚拟服务器和工作站 + 4.3 安装和配置域服 + 4.4 配置认证中心服务 + 4.5 安装远程管理服务](https://t.zsxq.com/uNfQ7y7)
 #### [第四章（下）--- 4.6 企业电子邮件服务 + 4.7 安装易受攻击的服务 + 4.8 安装Web应用程序 + 总结](https://t.zsxq.com/yjIMrbm)
+
+
 
 ---
 
@@ -133,6 +139,8 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 #### [2.9 post 注入](https://t.zsxq.com/mQbYfAY)
 #### [2.10 cookie注入](https://t.zsxq.com/myVJyJY)
 #### [2.11 sql注入之user-agent注入](https://t.zsxq.com/NBQjE6y)
+#### [3.1 文件上传基础](https://t.zsxq.com/FE2beAM)
+#### [3.2 客户端js验证绕过](https://t.zsxq.com/jeqZzrb)
 ---
 
 ### Kali Linux 渗透测试手册（第2版）
@@ -201,6 +209,10 @@ CTF重点训练的是基本渗透技能和渗透思路的培养。
 
 #### [8.3 - 使用Wapiti发现漏洞](https://mp.weixin.qq.com/s/9c--e630MmM16h80zfmkSA)
 
+#### [8.5 - 使用Skipfish检测漏洞](https://mp.weixin.qq.com/s/wBdizvJmDuwjIWKXOOVyGw)
 
+#### [8.5 - 使用Skipfish检测漏洞](https://mp.weixin.qq.com/s/wBdizvJmDuwjIWKXOOVyGw)
+
+#### [8.6 - 使用WPScan查找WordPress中的漏洞](https://mp.weixin.qq.com/s/h-BYnfYhYgmXKy-GZ-fwCg)
 ----
 #### [第三方资源，仅供参考，不作为强制要求](reference.md)
