@@ -380,3 +380,13 @@ https://bbs.ichunqiu.com/thread-46827-1-1.html<br />
 5) [知道创宇404实验室 --- 2018年网络空间报告](https://t.zsxq.com/uZbiqBq)
 6) [5号黯区渗透手册](http://www.ansbase5.org/PentestNote.html)
 7) [面试资料](https://github.com/Leezj9671/Pentest_Interview)
+
+更多资源关注
+关注微信订阅号：
+
+![](img/0.jpg)
+
+原创培训教程会不定期对外公开，教学和培训，答疑等活动在知识星球内部进行，请加入星球一起学习。部分资源只限星球内部成员查看，请加入星球！！
+
+<img src='img/00.jpeg' width=400px>
+
