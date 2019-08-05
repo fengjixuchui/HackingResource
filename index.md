@@ -82,10 +82,17 @@
 #### [第四章（下）--- 4.6 企业电子邮件服务 + 4.7 安装易受攻击的服务 + 4.8 安装Web应用程序 + 总结](https://t.zsxq.com/yjIMrbm)
 
 #### [5.1 基于网络的安全保护措施](https://t.zsxq.com/Mf6IUbA)
+#### [5.2 基于主机的网络安全保护措施](https://t.zsxq.com/7eMRvzZ)
+#### [5.3 SIEM](https://t.zsxq.com/7eMRvzZ)
+
+#### [6.1 无线黑客工具包](https://t.zsxq.com/JeMRn2r)
+#### [6.2 基础设施类黑客工具](https://t.zsxq.com/JeMRn2r)
+#### [6.3 破解工具](https://t.zsxq.com/EIyJm6U)
+#### [6.4 Web应用程序黑客工具](https://t.zsxq.com/EIyJm6U)
 
 ---
 
-### CTF实战
+### CTF实战(图文教程)
 #### [大纲](https://mp.weixin.qq.com/s/ukSra269UmRhXYxvsbshng)
 #### 靶场地址：(加入“玄说安全--入门圈” 可看)
 
@@ -113,6 +120,19 @@
 #### [3.1 文件上传基础](https://t.zsxq.com/FE2beAM)
 #### [3.2 客户端js验证绕过](https://t.zsxq.com/jeqZzrb)
 ---
+
+
+---
+
+### CTF实战(视频教程)
+---
+已更新内容
+
+#### [ctf 与内网渗透入门-视频教程1.1](https://t.zsxq.com/F6EujAa)
+#### [ctf 与内网渗透入门-视频教程1.2](https://t.zsxq.com/AqVZRnI)
+#### [ctf 与内网渗透入门-视频教程1.3](https://t.zsxq.com/ujUrVnu)
+#### [ctf 与内网渗透入门-视频教程2.1](https://t.zsxq.com/NVBujIU)
+
 
 ### Kali Linux 渗透测试手册（第2版）
 
