@@ -53,7 +53,7 @@
 #### [3.8 DNS欺骗](https://t.zsxq.com/eAaIuBm)
 
 #### [3.9 无线网络扫描](https://t.zsxq.com/ZnUvvJ2)
-
+#### [4.1 web协议概览](https://t.zsxq.com/b6YnUr7)
 ---
 ### 无线网络渗透测试实践 
 
@@ -89,7 +89,7 @@
 #### [6.2 基础设施类黑客工具](https://t.zsxq.com/JeMRn2r)
 #### [6.3 破解工具](https://t.zsxq.com/EIyJm6U)
 #### [6.4 Web应用程序黑客工具](https://t.zsxq.com/EIyJm6U)
-
+#### [第7章 搭建无线渗透测试平台](https://t.zsxq.com/7qVfmi2)
 ---
 
 ### CTF实战(图文教程)
@@ -132,6 +132,13 @@
 #### [ctf 与内网渗透入门-视频教程1.2](https://t.zsxq.com/AqVZRnI)
 #### [ctf 与内网渗透入门-视频教程1.3](https://t.zsxq.com/ujUrVnu)
 #### [ctf 与内网渗透入门-视频教程2.1](https://t.zsxq.com/NVBujIU)
+#### [CTF 与内网渗透 视频教程  2.2 节 Union Injection](https://t.zsxq.com/6EYjY7u)
+#### [CTF 与内网渗透 视频教程 2.3 节 字符型注入](https://t.zsxq.com/72BEeMV)
+#### [ctf与内网渗透 视频教程 2.4节](https://t.zsxq.com/Jmi6YfI)
+#### [ctf 与 内网渗透--视频教程 2.5  文件注入](https://t.zsxq.com/3VJYFqn)
+#### [ctf 与内网渗透 视频教程 2.6 盲注](https://t.zsxq.com/IQFeQrV)
+
+
 
 
 ### Kali Linux 渗透测试手册（第2版）
@@ -200,10 +207,15 @@
 
 #### [8.3 - 使用Wapiti发现漏洞](https://mp.weixin.qq.com/s/9c--e630MmM16h80zfmkSA)
 
-#### [8.5 - 使用Skipfish检测漏洞](https://mp.weixin.qq.com/s/wBdizvJmDuwjIWKXOOVyGw)
+#### [8.4 - 使用OWASP ZAP进行扫描漏洞](https://mp.weixin.qq.com/s/1YA2VYQf0pYDvngGJPL8Gg)
 
 #### [8.5 - 使用Skipfish检测漏洞](https://mp.weixin.qq.com/s/wBdizvJmDuwjIWKXOOVyGw)
 
 #### [8.6 - 使用WPScan查找WordPress中的漏洞](https://mp.weixin.qq.com/s/h-BYnfYhYgmXKy-GZ-fwCg)
+#### [8.7 - 使用JoomScan扫描Joomla中的漏洞](https://mp.weixin.qq.com/s/v_GavWoynva6ggqG_PHE1g)
+#### [8.8 - 使用CMSmap扫描Drupal](https://mp.weixin.qq.com/s/qvyq9IHi1DjCOOtZnQErtQ)
+#### [8.8 - 使用CMSmap扫描Drupal](https://mp.weixin.qq.com/s/qvyq9IHi1DjCOOtZnQErtQ)
+#### [9.1 - 如何绕过xss输入验证](https://mp.weixin.qq.com/s/PWRnq1b8ITDkn1PyfCkXnQ)
+
 ----
 #### [第三方资源，仅供参考，不作为强制要求](reference.md)
