@@ -218,4 +218,10 @@
 #### [9.1 - 如何绕过xss输入验证](https://mp.weixin.qq.com/s/PWRnq1b8ITDkn1PyfCkXnQ)
 
 ----
+
+### 漏洞实战
+
+1. [web logic漏洞重现与攻防实战图文+视频教程(完整版）](https://mp.weixin.qq.com/s/9n8aqFgqbqS1FRX2ypzf9g)
+
+----
 #### [第三方资源，仅供参考，不作为强制要求](reference.md)
