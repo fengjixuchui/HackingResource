@@ -62,7 +62,7 @@
 #### [1.1 环境搭建](https://t.zsxq.com/Uzn2rnm)
 #### [1.2 数值类型](https://t.zsxq.com/YVb6EMN)
 #### [1.3 字符串、列表、元组、字典和集合](https://t.zsxq.com/6QnMnQN)
-#### [.4 流程控制](https://t.zsxq.com/jYjynea)
+#### [1.4 流程控制](https://t.zsxq.com/jYjynea)
 
 ### 无线网络渗透测试实践 
 
