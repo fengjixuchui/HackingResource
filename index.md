@@ -55,6 +55,15 @@
 #### [3.9 无线网络扫描](https://t.zsxq.com/ZnUvvJ2)
 #### [4.1 web协议概览](https://t.zsxq.com/b6YnUr7)
 ---
+
+
+### Python黑客编程之极速入门--视频教程
+
+#### [1.1 环境搭建](https://t.zsxq.com/Uzn2rnm)
+#### [1.2 数值类型](https://t.zsxq.com/YVb6EMN)
+#### [1.3 字符串、列表、元组、字典和集合](https://t.zsxq.com/6QnMnQN)
+#### [.4 流程控制](https://t.zsxq.com/jYjynea)
+
 ### 无线网络渗透测试实践 
 
 ####[大纲](https://github.com/xuanhun/wirelessHacking/blob/master/README.md)
@@ -124,7 +133,7 @@
 
 ---
 
-### CTF实战(视频教程)
+### CTF实战-----视频教程
 ---
 已更新内容
 
@@ -137,7 +146,10 @@
 #### [ctf与内网渗透 视频教程 2.4节](https://t.zsxq.com/Jmi6YfI)
 #### [ctf 与 内网渗透--视频教程 2.5  文件注入](https://t.zsxq.com/3VJYFqn)
 #### [ctf 与内网渗透 视频教程 2.6 盲注](https://t.zsxq.com/IQFeQrV)
-
+#### [ctf 与内网渗透 视频教程 2.7 post注入](https://t.zsxq.com/nEuVbqz)
+#### [ctf 与内网渗透 视频教程  2.8 cookie 注入](https://t.zsxq.com/iUvBMJi)
+#### [ctf 与内网渗透 视频教程  2.9 cookie 注入](https://t.zsxq.com/a2nurvZ)
+#### [ctf 与内网渗透 视频教程  3.1 sql map 安装](https://t.zsxq.com/aem66Eu)
 
 
 
@@ -216,7 +228,9 @@
 #### [8.8 - 使用CMSmap扫描Drupal](https://mp.weixin.qq.com/s/qvyq9IHi1DjCOOtZnQErtQ)
 #### [8.8 - 使用CMSmap扫描Drupal](https://mp.weixin.qq.com/s/qvyq9IHi1DjCOOtZnQErtQ)
 #### [9.1 - 如何绕过xss输入验证](https://mp.weixin.qq.com/s/PWRnq1b8ITDkn1PyfCkXnQ)
-
+#### [9.2 - 对跨站脚本攻击（xss）进行混淆代码测试](https://mp.weixin.qq.com/s/2Lqd7zVuGC6p3NIEwT1bCQ)
+#### [9.4 - 绕过web服务器的CORS限制](https://mp.weixin.qq.com/s/Ld8eqkbkzM8faJRgnIqtsA)
+#### [9.7 - 通过HTTP头利用漏洞](https://mp.weixin.qq.com/s/twjFmT2Bt-6pOWF2Qnmi5g)
 ----
 
 ### 漏洞实战
