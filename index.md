@@ -151,8 +151,15 @@
 #### [ctf 与内网渗透 视频教程  2.8 cookie 注入](https://t.zsxq.com/iUvBMJi)
 #### [ctf 与内网渗透 视频教程  2.9 cookie 注入](https://t.zsxq.com/a2nurvZ)
 #### [ctf 与内网渗透 视频教程  3.1 sql map 安装](https://t.zsxq.com/aem66Eu)
+---
+### Kali Linux 视频教程
+
+微信订阅号  回复“kali” 获取
 
 
+![](img/0.jpg)
+
+---
 
 ### Kali Linux 渗透测试手册（第2版）
 
