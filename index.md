@@ -173,6 +173,53 @@
 
 ![](img/0.jpg)
 
+课程目录
+
+    (1)环境搭建
+
+    (2)代理简介
+
+    (3)两个小入门案例
+
+    (4)google hack 实战
+
+    (5)社会工程学工具集
+
+    (6)网络扫描--nmap与zmap
+
+    (7)漏洞分析--OpenVas实战
+
+    (8)Nessus实战
+
+    (9)BurpSuite使用入门
+
+    (10)w3af实战
+
+    (11)扫描,sql注入,文件绕过案例演示
+
+    (12)Websploit实战
+
+    (13)密码破解
+
+    (14)arp欺骗、嗅探、dns欺骗、session
+
+    (15)拒绝服务攻击(DoS)实战
+
+    (16)BeEF的使用
+
+    (17)基于错误的sql注入基本原理与演示
+
+    (18)metasploit基础
+
+    (19)Metasploit-meterpreter
+
+    (20)案例wordpress插件漏洞演示
+
+    (21)webshell制作
+————————————————
+版权声明：本文为CSDN博主「Jack967」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/Jack967/article/details/90203720
+
 ---
 
 ### Kali Linux 渗透测试手册（第2版）
