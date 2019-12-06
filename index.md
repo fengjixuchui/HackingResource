@@ -63,6 +63,17 @@
 #### [视频教程 1.2 数值类型](https://t.zsxq.com/YVb6EMN)
 #### [视频教程 1.3 字符串、列表、元组、字典和集合](https://t.zsxq.com/6QnMnQN)
 #### [视频教程 1.4 流程控制](https://t.zsxq.com/jYjynea)
+#### [视频教程 1.5 函数](https://t.zsxq.com/uzrjMV3)
+#### [视频教程 1.6 模块](https://t.zsxq.com/2vJeIy7)
+#### [视频教程 1.7 异常处理](https://t.zsxq.com/2NRF2vb)
+#### [视频教程 1.8 面向对象编程](https://t.zsxq.com/BeiyvvN)
+#### [视频教程 2.1 文件和目录基本操作](https://t.zsxq.com/a6YzNnq)
+#### [视频教程 2.2 多线程编程](https://t.zsxq.com/IuznEAU)
+#### [视频教程 2.3 多进程编程](https://t.zsxq.com/AMVjqbu)
+#### [视频教程 3.1 Socket编程基础](https://t.zsxq.com/euNzrFA)
+#### [视频教程 3.2 一个简单木马](https://t.zsxq.com/bMRrb6e)
+#### [视频教程 3.3  多连接、非阻塞的服务端、客户端编程]()
+
 
 ----
 ### 无线网络渗透测试实践 
@@ -111,24 +122,24 @@
 
 
 
-####     [1.1 http method](https://t.zsxq.com/niimAA6)
-####      [1.1 wp ](https://t.zsxq.com/VvBQnY7)
-#### [1.2 前端基础](https://t.zsxq.com/rf2Zvz3)
-#### [1.2 wp](https://t.zsxq.com/nIyzvj2)
-#### [1.3 数据库基础](https://t.zsxq.com/NFYJMfa)
-#### [2.1 sql注入基础](https://t.zsxq.com/fm6MFYz)
-#### [2.2 sql注入实战](https://t.zsxq.com/jUNfAei)
-#### [2.2 补充 sql注入原理篇](https://t.zsxq.com/jYBUn27)
-#### [2.3 字符型注入](https://t.zsxq.com/3byNVV3)
-#### [2.4 sql注入之双查询注入](https://t.zsxq.com/IyJQN7y)
-#### [2.6 sql注入之读取文件](https://t.zsxq.com/NzBAm27)
-#### [2.7 sql注入之bool 注入](https://t.zsxq.com/Zf2FYZj)
-#### [2.8 sleep注入](https://t.zsxq.com/UvrburB)
-#### [2.9 post 注入](https://t.zsxq.com/mQbYfAY)
-#### [2.10 cookie注入](https://t.zsxq.com/myVJyJY)
-#### [2.11 sql注入之user-agent注入](https://t.zsxq.com/NBQjE6y)
-#### [3.1 文件上传基础](https://t.zsxq.com/FE2beAM)
-#### [3.2 客户端js验证绕过](https://t.zsxq.com/jeqZzrb)
+####     [1.1 http method](https://github.com/xuanhun/web-hack)
+####      [1.1 wp ](https://github.com/xuanhun/web-hack)
+#### [1.2 前端基础](https://github.com/xuanhun/web-hack)
+#### [1.2 wp](https://github.com/xuanhun/web-hack)
+#### [1.3 数据库基础](https://github.com/xuanhun/web-hack)
+#### [2.1 sql注入基础](https://github.com/xuanhun/web-hack)
+#### [2.2 sql注入实战](https://github.com/xuanhun/web-hack)
+#### [2.2 补充 sql注入原理篇](https://github.com/xuanhun/web-hack)
+#### [2.3 字符型注入](https://github.com/xuanhun/web-hack)
+#### [2.4 sql注入之双查询注入](https://github.com/xuanhun/web-hack)
+#### [2.6 sql注入之读取文件](https://github.com/xuanhun/web-hack)
+#### [2.7 sql注入之bool 注入](https://github.com/xuanhun/web-hack)
+#### [2.8 sleep注入](https://github.com/xuanhun/web-hack)
+#### [2.9 post 注入](https://github.com/xuanhun/web-hack)
+#### [2.10 cookie注入](https://github.com/xuanhun/web-hack)
+#### [2.11 sql注入之user-agent注入](https://github.com/xuanhun/web-hack)
+#### [3.1 文件上传基础](https://github.com/xuanhun/web-hack)
+#### [3.2 客户端js验证绕过](https://github.com/xuanhun/web-hack)
 ---
 
 
@@ -151,6 +162,9 @@
 #### [ctf 与内网渗透 视频教程  2.8 cookie 注入](https://t.zsxq.com/iUvBMJi)
 #### [ctf 与内网渗透 视频教程  2.9 cookie 注入](https://t.zsxq.com/a2nurvZ)
 #### [ctf 与内网渗透 视频教程  3.1 sql map 安装](https://t.zsxq.com/aem66Eu)
+#### [ctf 与内网渗透 视频教程  3.2 Access环境搭建](https://t.zsxq.com/QJ66qzv)
+#### [ctf 与内网渗透 视频教程  3.3 SQL Map 使用 上](https://t.zsxq.com/uNbmYBy)
+
 ---
 ### Kali Linux 视频教程
 
@@ -158,6 +172,51 @@
 
 
 ![](img/0.jpg)
+
+课程目录
+
+    (1)环境搭建
+
+    (2)代理简介
+
+    (3)两个小入门案例
+
+    (4)google hack 实战
+
+    (5)社会工程学工具集
+
+    (6)网络扫描--nmap与zmap
+
+    (7)漏洞分析--OpenVas实战
+
+    (8)Nessus实战
+
+    (9)BurpSuite使用入门
+
+    (10)w3af实战
+
+    (11)扫描,sql注入,文件绕过案例演示
+
+    (12)Websploit实战
+
+    (13)密码破解
+
+    (14)arp欺骗、嗅探、dns欺骗、session
+
+    (15)拒绝服务攻击(DoS)实战
+
+    (16)BeEF的使用
+
+    (17)基于错误的sql注入基本原理与演示
+
+    (18)metasploit基础
+
+    (19)Metasploit-meterpreter
+
+    (20)案例wordpress插件漏洞演示
+
+    (21)webshell制作
+
 
 ---
 
