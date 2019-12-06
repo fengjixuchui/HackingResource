@@ -63,6 +63,17 @@
 #### [视频教程 1.2 数值类型](https://t.zsxq.com/YVb6EMN)
 #### [视频教程 1.3 字符串、列表、元组、字典和集合](https://t.zsxq.com/6QnMnQN)
 #### [视频教程 1.4 流程控制](https://t.zsxq.com/jYjynea)
+#### [视频教程 1.5 函数](https://t.zsxq.com/uzrjMV3)
+#### [视频教程 1.6 模块](https://t.zsxq.com/2vJeIy7)
+#### [视频教程 1.7 异常处理](https://t.zsxq.com/2NRF2vb)
+#### [视频教程 1.8 面向对象编程](https://t.zsxq.com/BeiyvvN)
+#### [视频教程 2.1 文件和目录基本操作](https://t.zsxq.com/a6YzNnq)
+#### [视频教程 2.2 多线程编程](https://t.zsxq.com/IuznEAU)
+#### [视频教程 2.3 多进程编程](https://t.zsxq.com/AMVjqbu)
+#### [视频教程 3.1 Socket编程基础](https://t.zsxq.com/euNzrFA)
+#### [视频教程 3.2 一个简单木马](https://t.zsxq.com/bMRrb6e)
+#### [视频教程 3.3  多连接、非阻塞的服务端、客户端编程]()
+
 
 ----
 ### 无线网络渗透测试实践 
@@ -151,6 +162,9 @@
 #### [ctf 与内网渗透 视频教程  2.8 cookie 注入](https://t.zsxq.com/iUvBMJi)
 #### [ctf 与内网渗透 视频教程  2.9 cookie 注入](https://t.zsxq.com/a2nurvZ)
 #### [ctf 与内网渗透 视频教程  3.1 sql map 安装](https://t.zsxq.com/aem66Eu)
+#### [ctf 与内网渗透 视频教程  3.2 Access环境搭建](https://t.zsxq.com/QJ66qzv)
+#### [ctf 与内网渗透 视频教程  3.3 SQL Map 使用 上](https://t.zsxq.com/uNbmYBy)
+
 ---
 ### Kali Linux 视频教程
 
